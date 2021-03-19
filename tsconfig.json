@@ -2,9 +2,9 @@
   "compilerOptions": {
     "target": "es5",
     "lib": [
-      "DOM",
-      "DOM.Iterable",
-      "ESNext"
+      "dom",
+      "dom.Iterable",
+      "esnext"
     ],
     "esModuleInterop": true,
     "module": "esnext",
