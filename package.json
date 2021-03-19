@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/YuriAdonev/test-react-tdd/issues"
   },
-  "homepage": "https://github.com/YuriAdonev/test-react-tdd#readme"
+  "homepage": "https://github.com/YuriAdonev/test-react-tdd#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.4"
+  }
 }
