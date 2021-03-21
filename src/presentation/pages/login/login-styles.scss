@@ -60,30 +60,6 @@ button {
       text-transform: uppercase;
     }
 
-    .inputWrap {
-      position: relative;
-      display: flex;
-      margin-top: 16px;
-
-      input {
-        flex-grow: 1;
-        padding-right: 40px;
-      }
-
-      .status {
-        position: absolute;
-        top: 13px;
-        right: 13px;
-        display: block;
-        width: 16px;
-        height: 16px;
-        border-radius: 8px;
-        background-color: $red;
-        font-size: 12px;
-        cursor: help;
-      }
-    }
-
     .submit {
       margin-top: 32px;
       cursor: pointer;
@@ -117,6 +93,4 @@ button {
       }
     }
   }
-
-  
 }
