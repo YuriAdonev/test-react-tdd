@@ -3,7 +3,7 @@ import { AuthenticationParams } from '@/domain/usecases'
 import faker from 'faker'
 
 export const mockAccountModel = (): AccountModel => ({
-  accessToken: faker.random.uuid()
+  accessToken: faker.datatype.uuid()
 })
 
 export const mockAuthentication = (): AuthenticationParams => ({
